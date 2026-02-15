@@ -43,7 +43,7 @@ La aplicación ofrece un menú interactivo con las siguientes opciones:
 ### Pasos
 1.  **Clonar el repositorio:**
     ```bash
-    git clone https://github.com/adrianarodriguez23889/literAlura-Challenge.git
+    git clone (https://github.com/adrianarodriguez23889/literAlura-Challenge.git)
     ```
 
 2.  **Configurar la Base de Datos:**
